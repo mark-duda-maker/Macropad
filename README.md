@@ -1,16 +1,16 @@
 ## The Case
 
-![Case - Bottom View](path/to/case-bottom.jpg)
-![Case - Top View](path/to/case-top.jpg)
-![Case - Together](path/to/case-together.jpg)
+![Case - Bottom View](screenshots/case-bottom.jpg)
+![Case - Top View](screenshots/case-top.jpg)
+![Case - Together](screenshots/case-together.jpg)
 
 ## The PCB
 
-![PCB with switches](path/to/pcb-top.jpg)
+![PCB with switches](screenshots/pcb-top.jpg)
 
 ## The Schematic
 
-![Schematic diagram](path/to/schematic.png)
+![Schematic diagram](screenshots/schematic.png)
 
 ## The Bom
 4x M3x16mm screws
