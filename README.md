@@ -1,2 +1,7 @@
-# Macropad
-A simple macropad
+The Case
+
+The PCB
+
+The Schematic
+
+The Bom
