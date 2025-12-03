@@ -1,6 +1,6 @@
 ## The Case
 
-![Case - Bottom View](Screenshots/Bottome_case.png)
+![Case - Bottom View](Screenshots/Bottom_case.png)
 ![Case - Top View](Screenshots/Top.png)
 ![Case - Together](Screenshots/Together.png)
 
