@@ -1,12 +1,12 @@
 ## The Case
 
-![Case - Bottom View](Screenshots/Bottome_case.jpg)
-![Case - Top View](Screenshots/Top.jpg)
-![Case - Together](Screenshots/Together.jpg)
+![Case - Bottom View](Screenshots/Bottome_case.png)
+![Case - Top View](Screenshots/Top.png)
+![Case - Together](Screenshots/Together.png)
 
 ## The PCB
 
-![PCB with switches](Screenshots/PCB.jpg)
+![PCB with switches](Screenshots/PCB.png)
 
 ## The Schematic
 
